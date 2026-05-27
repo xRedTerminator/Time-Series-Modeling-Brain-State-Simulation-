@@ -1,0 +1,7 @@
+# simulation outputs
+simulations/
+*.fif
+
+# trained model artifacts
+*.pkl
+hmm_tde.pkl
